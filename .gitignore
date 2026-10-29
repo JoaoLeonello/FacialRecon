@@ -1,0 +1,6 @@
+target/
+dados/
+*.yml
+.idea/
+*.iml
+nbproject/
